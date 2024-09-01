@@ -2,7 +2,9 @@
 
 In this project, I have explored how to create dynamic visualizations using Amazon S3 and Amazon QuickSight. The project involves analyzing a dataset of best-selling books from Amazon.com.
 
+
 ## Overview
+![image](https://github.com/user-attachments/assets/53449387-72d2-4c1b-b455-9245266c497a)
 
 ### Tools and Technologies
 - **Amazon S3**: Cloud storage service to store and retrieve data.
